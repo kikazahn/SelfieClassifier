@@ -4,7 +4,7 @@ Created on Mon Dec 24 11:55:05 2018
 LABELLER
 @author: Kirill
 """
-
+#ksjkhksgf
 import pandas as pd
 import numpy as np
 from os import listdir
